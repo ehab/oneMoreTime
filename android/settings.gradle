@@ -1,0 +1,3 @@
+rootProject.name = 'oneMoreTime'
+
+include ':app'
